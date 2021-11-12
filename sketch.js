@@ -37,8 +37,8 @@ function draw() {
  
 	//mostre o objeto da classe papel
   groundObject.display();
-  dustbinObj.display();
 	papel1.display();
+	dustbinObj.display();
 
 }
 
